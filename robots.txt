@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://turbarba.github.io/sitemap.html.gz
+Sitemap: https://turbarba.github.io/app/sitemap.html.gz
+Sitemap: https://turbarba.github.io/assets/sitemap.html.gz
+Sitemap: https://turbarba.github.io/css/sitemap.html.gz
+Sitemap: https://turbarba.github.io/includes/sitemap.html.gz
+Sitemap: https://turbarba.github.io/item/sitemap.html.gz
+Sitemap: https://turbarba.github.io/src/sitemap.html.gz
